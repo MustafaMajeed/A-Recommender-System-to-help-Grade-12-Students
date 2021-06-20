@@ -1,2 +1,0 @@
-# A-Recommender-System-to-help-Grade-12-Students
-Every year thousands of high school graduates apply for admission at universities in the Kurdistan Region of Iraq. A large number of these applicants do not have enough information about the programs and how to select them. Therefore, some admitted applicants would find themselves in the program programs that do not interest them. This project studies the usability of a recommender system in assisting the applicants who apply to the universities to choose the programs that suit them the most
